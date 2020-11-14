@@ -9,7 +9,7 @@
     "phone": "",
     "location": {
       "address": "",
-      "postalCode": "30066",
+      "postalCode": "",
       "city": "Atlanta",
       "region": "Georgia",
       "countryCode": "USA"
@@ -22,13 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "Annemaire Thomas",
-        "url": "http://linkedin.com/in/annemarie-thomas"
-      },
-      {
-        "network": "twitter",
         "username": "Annemarie Thomas",
-        "url": "http://twitter.com/annemarie"
+        "url": "http://linkedin.com/in/annemarie-thomas"
       },
       {
         "network": "instagram",
@@ -41,54 +36,22 @@
     {
       "name": "Software Engineering",
       "keywords": [
-        "JavaScritp",
+        "JavaScript",
         "CSS"
       ]
     },
-    {
-      "name": "Data Mining",
-      "keywords": []
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": []
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Postico",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
   ],
   "education": [
     {
       "institution": "University of the Free State, SA",
       "area": "",
-      "studyType": "B.S. Bcomt. Fianance",
-      "startDate": "2013-09-01",
+      "studyType": "B.S. BComt. Finance",
+      "startDate": "",
       "endDate": "2008",
       "gpa": "",
       "courses": [
-        "Fianacial Accounting",
+        "Financial Accounting",
+        "Business Management",
         "Auditing",
         "Taxation"
       ]
@@ -113,20 +76,18 @@
       "endDate": "2013",
       "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee accounting records."
       ]
     },
     {
       "company": "Reliant Electric, Inc",
       "position": "Accountant",
       "website": "",
-      "startDate": "2013",
+      "startDate": "2014",
       "endDate": "2020",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain, update, and oversee accounting records."
       ]
     }
   ],

@@ -1,25 +1,21 @@
 ---
 layout: project
-type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+type: Front End Project
+image:images/good eats 300.png
+Add files via upload
+
+title: GoodEats!
+permalink: projects/Good Eats
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+
+summary: An Application to find the best "eats you might be craving at the moment.
 ---
+To give you a flavor of the app, here is an excerpt:
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+ <h1><h1>
+ <p><p>
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Source: <a href="https://github.com/Athomas9sa/front-end-project"><i class="large github icon "></i>goodeats</a>
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
