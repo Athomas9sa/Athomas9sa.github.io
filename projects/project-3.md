@@ -1,21 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image:
+title: Fun Fair Danger!
+permalink: projects/funfairdanger
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+
+summary: An adventure game using Python.
 ---
-
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
-
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
 To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
@@ -57,5 +51,5 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://https://github.com/Athomas9sa/fun_fair_danger"><i class="large github icon "></i>ourpygame</a>
 
